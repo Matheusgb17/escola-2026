@@ -11,3 +11,4 @@ public class Escola2026Application {
 	}
 
 }
+ // 03 - mapeando auto relacionamento
